@@ -228,7 +228,7 @@ text-decoration: none;
   width: 30px;
   height: 30px;
   cursor: pointer;
-  background-image:url("./images/Starbucks\ img/menu.png");
+  background-image:url("./Starbucks\ img/menu.png");
   background-size: 30px;
   background-position: center;
   background-repeat: no-repeat;
@@ -239,7 +239,7 @@ text-decoration: none;
 .toggle.active{
  position: fixed;
  right: 20px;
-  background-image:url("./images/Starbucks\ img/close.png");
+  background-image:url("./Starbucks\ img/close.png");
   background-size: 22px;
   background-position: center;
   background-repeat: no-repeat;
